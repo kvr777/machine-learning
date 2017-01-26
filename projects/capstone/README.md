@@ -1,13 +1,25 @@
 # Machine Learning Engineer Nanodegree
 ## Specializations
-## Project: Capstone Proposal and Capstone Project
+## Project: Capstone Project
 
-**Note**
+**Brief description**
 
-The Capstone is a two-staged project. The first is the proposal component, where you can receive valuable feedback about your project idea, design, and proposed solution. This must be completed prior to your implementation and submitting for the capstone project. 
+In this folder you can find the following materials:
+    1. Data.csv - this is file with input data to make prediction
+    2. CapstoneProject.pdf - this is final report
+    3. Capstone.ipynb - notebook with predictive models calculation
 
-You can find the [capstone proposal rubric here](https://review.udacity.com/#!/rubrics/410/view), and the [capstone project rubric here](https://review.udacity.com/#!/rubrics/108/view). Please ensure that you are following directions correctly when submitting these two stages which encapsulate your capstone.
+**Software and Libraries**
 
-You will find an `open_projects` folder in these files. This will be where pre-curated capstone projects are available, should you choose to work on a project already partially designed for you. 
+This project uses the following software and Python libraries:
+    1. Python 2.7
+    2. NumPy
+    3. pandas
+    4. scikit-learn (v0.18)
+    5. Keras (v1.2.1)
+    6. Theano (v0.8.2)
+    5. dateutil
+    6. matplotlib
+    7. warnings
 
-Please email [machine-support@udacity.com](mailto:machine-support@udacity.com) if you have any questions.
+You will also need to have software installed to run and execute a Jupyter Notebook
