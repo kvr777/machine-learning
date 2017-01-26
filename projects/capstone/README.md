@@ -7,7 +7,7 @@
 In this folder you can find the following materials:
 * Data.csv - this is file with input data to make prediction
 * CapstoneProject.pdf - this is final report
-* Capstone.ipynb - notebook with predictive models calculation
+* capstone_v8_sl18.ipynb - notebook with predictive models calculation
 
 **Software and Libraries**
 
