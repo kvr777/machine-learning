@@ -5,13 +5,14 @@
 **Brief description**
 
 In this folder you can find the following materials:
-1.Data.csv - this is file with input data to make prediction
-2.CapstoneProject.pdf - this is final report
-3.Capstone.ipynb - notebook with predictive models calculation
+* Data.csv - this is file with input data to make prediction
+* CapstoneProject.pdf - this is final report
+* Capstone.ipynb - notebook with predictive models calculation
 
 **Software and Libraries**
 
 This project uses the following software and Python libraries:
+
 1. Python 2.7
 2. NumPy
 3. pandas
